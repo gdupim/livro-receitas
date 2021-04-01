@@ -4,6 +4,6 @@ Olá! Bem-vindo ao livro de receitas :wave:
 
 - Strogonoff de Frango
 - Brigadeiro
-- Bolo de cenoura
+- Bolo de milho
 
 ###### OBS: Não leve isso a sério, é só um exercício...
